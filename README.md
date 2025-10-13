@@ -47,7 +47,7 @@ Instead of building another AI image site, I focused purely on **tattoo design**
 - Growing organic traffic from blog + Pinterest  
 - Serving artists and tattoo fans worldwide  
 
-![AITattoo Preview](./images/aitattoo-preview.png)
+![AITattoo Preview](./aitattoo-preview.png)
 
 ---
 
