@@ -33,7 +33,7 @@ Born from the frustration of slow indexing, **ColorPages.art** became my testbed
 - Integrated Pinterest & Twitter auto-posts  
 - Still improving every week
 
-![ColorPages Preview](./images/colorpages-preview.png)
+![ColorPages Preview](./colorpages-preview.png)
 
 ---
 
