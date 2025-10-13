@@ -61,21 +61,12 @@ Instead of building another AI image site, I focused purely on **tattoo design**
 
 ---
 
-## 💬 Lessons Learned Along the Way
-
-- You can’t shortcut **Google trust** — consistency wins.  
-- Pinterest is underrated for **visual SEO**.  
-- Writing 10 blogs a day will break you, but it’s worth it.  
-- Every rebuild teaches you what *not* to automate too soon.  
-- The real win: turning failure logs into a playbook for the next site.
-
----
-
 ## 🌍 Follow the Journey
 
-- 🐦 [Twitter](https://twitter.com/AITattoo_Art)
-- 📌 [Pinterest](https://www.pinterest.com/)
-- 🧑‍💻 [GitHub](https://github.com/tanjingmeng)
+- 🐦 [Twitter](https://x.com/AITattooArt)
+- 📌 [Pinterest](https://pin.it/6NdatdNmR)
+
+
 
 ---
 
