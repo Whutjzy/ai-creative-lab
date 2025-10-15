@@ -61,6 +61,32 @@ Instead of building another AI image site, I focused purely on **tattoo design**
    [Anime Tattoos](https://aitattoo.art/categories/anime-tattoos) and its inner page  
    [Eternal Bonds – Dual Anime Characters](https://aitattoo.art/categories/anime-tattoos/eternal-bonds-dual-anime-characters).
 
+---
+
+## 💡 Web Development Suggestions
+
+- **Optimize Image Loading**  
+  Implement lazy loading for image-heavy pages to reduce initial load time and improve Core Web Vitals performance.
+
+- **Add Structured Data (SEO)**  
+  Include JSON-LD schema for categories and tattoo artwork pages to enhance search visibility and enable rich snippets in Google Search.
+
+- **Implement Sitemap Automation**  
+  Generate and auto-update `sitemap.xml` whenever new categories or artwork pages are published to ensure proper indexation.
+
+- **Improve Page Caching**  
+  Use browser and CDN caching strategies (e.g., `Cache-Control` headers, Cloudflare Page Rules) to accelerate repeated visits.
+
+- **Enhance Mobile Responsiveness**  
+  Review mobile layout spacing and ensure touch areas (buttons, links) meet accessibility standards.
+
+- **Add Error Monitoring**  
+  Integrate tools like Sentry or Vercel Analytics to capture runtime errors and user behavior insights.
+
+- **Enable HTTPS Redirection Globally**  
+  Force HTTPS redirection at the server or CDN level to prevent mixed-content issues in the future.
+
+
 ## ⚙️ Tech & Tools Behind the Scenes
 
 - **Frontend:** Next.js + Tailwind CSS  
