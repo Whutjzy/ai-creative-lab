@@ -1,0 +1,27 @@
+# 💰 Price Page – Implementation Draft
+
+## Overview
+
+This page (`/price`) will display tattoo style pricing tiers and integrate payment functionality.  
+The goal is to provide a clear, user-friendly pricing structure while enabling secure checkout.
+
+---
+
+## 🧩 Pseudocode Example
+
+```pseudo
+Component: PricePage
+    Import: Header, Footer, PricingCard, PaymentButton
+
+    Render:
+        Header("AITattoo.art – Price Plans")
+
+        Section("Pricing Overview")
+            For each plan in pricingList:
+                Show PricingCard(plan.title, plan.price, plan.description)
+
+        Section("Payment Integration")
+            Display PaymentButton(provider="Stripe", planID=selectedPlan)
+            OnClick(PaymentButton):
+                -> Validate user session
+                -> Create checkout
