@@ -86,14 +86,22 @@ Instead of building another AI image site, I focused purely on **tattoo design**
 - **Enable HTTPS Redirection Globally**  
   Force HTTPS redirection at the server or CDN level to prevent mixed-content issues in the future.
 
+## 🔮 Upcoming – October 20, 2025
 
-## ⚙️ Tech & Tools Behind the Scenes
+### Topic: **Price Page & Payment Integration**
 
-- **Frontend:** Next.js + Tailwind CSS  
-- **Backend:** Supabase / Vercel  
-- **AI Models:** Stable Diffusion, CLIP  
-- **Infra:** Cloudflare + Custom Sitemap Automation  
-- **Tracking:** GA4 + Cloudflare Analytics + Twitter data  
+On **October 20**, we plan to share a detailed update about the  
+[Price Page](https://aitattoo.art/price) and how the payment integration will be implemented.
+
+The discussion will include:
+- Overview of the current pricing structure and layout.  
+- Planned approach for integrating online payment (e.g., Stripe, PayPal, or crypto options).  
+- Backend workflow for secure transaction handling and order verification.  
+- Future roadmap for user account billing history and subscription management.  
+- Security considerations (HTTPS, CSRF protection, and encrypted payment data).
+
+Stay tuned for the full implementation walkthrough and technical breakdown in the next update.
+
 
 ---
 
