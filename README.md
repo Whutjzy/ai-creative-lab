@@ -50,6 +50,16 @@ Instead of building another AI image site, I focused purely on **tattoo design**
 ![AITattoo Preview](./aitattoo-preview.png)
 
 ---
+## 🧩 October 14, 2025 – Development Update
+
+1. **Bug Fix – HTTPS Resource Issue on Category Page**  
+   Fixed a 404 resource issue on the category page ([https://aitattoo.art/categories](https://aitattoo.art/categories)).  
+   The problem was caused by missing HTTPS bindings. After correctly mapping HTTPS to HTTP resources, the issue was resolved.
+
+2. **Feature Update – Category and Tag Name Improvements**  
+   Added and corrected several category subpage tag names, such as  
+   [Anime Tattoos](https://aitattoo.art/categories/anime-tattoos) and its inner page  
+   [Eternal Bonds – Dual Anime Characters](https://aitattoo.art/categories/anime-tattoos/eternal-bonds-dual-anime-characters).
 
 ## ⚙️ Tech & Tools Behind the Scenes
 
